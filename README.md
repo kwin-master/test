@@ -34,7 +34,7 @@ PDF文档的内容**均为手打**，有任何的不懂都可以直接**来问�
 #### :flags:Java后端面试题
 
 
-- [【防坑指南】从写简历，到面试和谈薪酬](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247486916&idx=1&sn=887a3ee2b5a17bc4a773d2af823de954&chksm=ebd74cc5dca0c5d3743dd81adf8d5599a917d1f70523ca355bd81efffc2ea9f968a0c162db4c&token=1973383024&lang=zh_CN#rd)
+- [【防坑指南】从写简历，到面试和谈薪酬](https://www.yuque.com/hwhhao/tmkgxg/npy23n)
 - [JAVA面试解析（有赞一面）](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485600&idx=1&sn=92d6a67521b55d8a1b9bea5c8e64645e&chksm=ebd749a1dca0c0b701d82f2493fc81f9a5e64f7228c84a199dd42f369687b1500e319b6234f7&token=1948873548&lang=zh_CN#rd)
 - [JAVA面试解析(有赞二面)](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485605&idx=1&sn=45c337508ca68f4da87b77e0e76cb857&chksm=ebd749a4dca0c0b2dd942d528357330387869cc3dcee7d9ca123f32581db73712059f0a847fd&token=1948873548&lang=zh_CN#rd)
 - [美团超详细面经（附答案）](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485636&idx=1&sn=3ab554f1c7e9745bf033d89577dfaa2b&chksm=ebd749c5dca0c0d3874ead44f3a03d7bd88ae1dbba7ab2828fc966598a85d7a4aaeeee5ca1be&token=1948873548&lang=zh_CN#rd)
